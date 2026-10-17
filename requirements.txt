@@ -1,0 +1,7 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+beautifulsoup4==4.13.4
+httpx[socks]==0.28.1
+google-auth==2.40.3
+requests==2.32.4
+cachecontrol==0.14.3
